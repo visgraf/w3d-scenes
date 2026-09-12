@@ -1,3 +1,5 @@
+> **Superseded.** This scene-gathering work is now step A1 of [visgraf/fov-3d-vision](https://github.com/visgraf/fov-3d-vision), where it is maintained. This repository is kept as the record of the original run and is no longer updated.
+
 # Phase A · Step 1 — scene gathering
 
 Three tiers of scenes, each checked by a 360° preview from a fixed eye position.
